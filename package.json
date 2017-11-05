@@ -1,0 +1,16 @@
+{
+  "name": "oldiTunesPlaylists",
+  "version": "0.0.0",
+  "description": "doing some ugly stuff to get old tracklisting from forgotten itunes library",
+  "main": "index.js",
+  "dependencies": {
+    "itunes-data": "~0.1.3",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chris mack",
+  "license": "BSD-2-Clause"
+}
